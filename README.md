@@ -57,7 +57,7 @@ Secured a project with the Etisalat CX team to develop a Digital Human Avatar fo
 
 Artificial Intelligence, Cold Calling & Email Outreach, CRM Tools (Salesforce, HubSpot, etc.), Customer Acquisition, IT Sales, Lead Generation & Qualification, Pipeline Development & B2B Sales Strategy
 
-**Sales Tools:** Apollo.io, Leegality (For NDA), Loom, PandaDoc, Phantom Buster, Sales Navigator, Zoominfo
+**Tools:** Apollo.io, Leegality (For NDA), Loom, PandaDoc, Phantom Buster, Sales Navigator, Zoominfo
 
 
 ---
