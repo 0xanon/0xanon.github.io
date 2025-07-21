@@ -15,7 +15,9 @@ Core focus: Delivering transformational outcomes through AI Avatars, Conversatio
 
 ##  Experience  
 
-### **Senior IT Consultant - Setoo** (Feb 2024 - Present)  
+### **Growth Strategist - AI & Sales - Ailoitte** (July 2025 - Present)  
+
+### **Senior IT Consultant - Setoo** (Feb 2024 - July 2025)  
  **Leading GTM strategy & growth** for three advanced AI solutions:
 
 - **Real-time Conversational Digital Humans** – AI avatars for customer engagement  
