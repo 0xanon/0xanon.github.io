@@ -16,6 +16,11 @@ Core focus: Delivering transformational outcomes through AI Avatars, Conversatio
 ##  Experience  
 
 ### **Growth Strategist - AI & Sales - Ailoitte** (July 2025 - Present)  
+I specialise in identifying business challenges and matching them with cutting-edge AI solutions, from automation to predictive analytics.
+
+Experience with global clients (North America, Europe, Middle East, Asia)
+
+Let's connect and explore how AI can solve your toughest problems.
 
 ### **Senior IT Consultant - Setoo** (Feb 2024 - July 2025)  
  **Leading GTM strategy & growth** for three advanced AI solutions:
@@ -73,7 +78,7 @@ Artificial Intelligence, Cold Calling & Email Outreach, CRM Tools (Salesforce, H
   <a href="mailto:shubhumourya@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/919754757263">
+  <a href="https://wa.me/919203366571">
     <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
