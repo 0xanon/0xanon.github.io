@@ -2,7 +2,7 @@
 
 AI Business Consultant specializing in UCaaS, CCaaS, and AI Solutions, empowering enterprises to drive innovation through cutting-edge AI Avatars and Voice Technology.
 
-4 years of experience spearheading enterprise AI/SaaS sales, revenue growth, and market leadership. Results-driven consultant with a proven track record of selling high-impact, AI-driven solutions—including UCaaS/CCaaS platforms, custom AI models, staff augmentation services, and SaaS products—to global organizations.
+4 years of experience spearheading enterprise AI/SaaS sales, revenue growth, and market leadership. Results-driven consultant with a proven track record of selling high-impact, AI-driven solutions,including UCaaS/CCaaS platforms, custom AI models, staff augmentation services, and SaaS products,to global organizations.
 
 Expert in consultative selling and building trusted partnerships with C-suite stakeholders to align AI-powered tools with business objectives. Skilled in negotiating high-value contracts and scaling market share for AI innovations across USA, UAE, and APAC markets.
 
